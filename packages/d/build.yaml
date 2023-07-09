@@ -1,0 +1,7 @@
+
+requires:
+  - name: b
+  - name: c
+steps:
+  - touch /d
+  - fallocate -l 100M dar

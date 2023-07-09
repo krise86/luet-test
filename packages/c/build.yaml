@@ -1,0 +1,7 @@
+
+requires:
+  - name: a
+
+steps:
+  - touch /c
+  - fallocate -l 100M car

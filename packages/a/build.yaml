@@ -1,0 +1,7 @@
+
+image: alpine
+
+
+steps:
+  - |
+    apk add curl
